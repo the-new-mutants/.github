@@ -1,3 +1,1 @@
-# Welcome
-home page
-test
+Welcome to The New Mutants
